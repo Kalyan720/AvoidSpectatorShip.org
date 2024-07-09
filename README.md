@@ -1,14 +1,16 @@
 AvoidSpectatorship<br>
 AvoidSpectatorship is a bash script designed to enhance your privacy by managing access to your camera and microphone. This script provides an easy way to disable and enable these devices as needed, helping to prevent unauthorized access and ensuring your privacy.
 <br>
+<br>
 Features<br>
 Camera Privacy: Disable your camera to prevent unauthorized access and enable it when needed.<br>
 Microphone Privacy: Disable your microphone to ensure conversations remain private and enable it when required.<br>
 User-Friendly: Simple and easy-to-use bash script.<br>
 Automated: Quickly toggle the state of your devices with a single command.<br>
+<br>
 Requirements<br>
 Unix-like operating system (Linux, macOS, etc.)<br>
-
+<br>
 Installation<br>
 Clone the repository:<br>
 git clone https://github.com/yourusername/AvoidSpectatorship.git<br>
