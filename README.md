@@ -1,4 +1,4 @@
-AvoidSpectatorship<br>
+<h1>AvoidSpectatorship<h1></h1><br>
 AvoidSpectatorship is a bash script designed to enhance your privacy by managing access to your camera and microphone. This script provides an easy way to disable and enable these devices as needed, helping to prevent unauthorized access and ensuring your privacy.
 <br>
 <br>
