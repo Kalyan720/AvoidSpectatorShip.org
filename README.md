@@ -11,11 +11,7 @@ Automated: Quickly toggle the state of your devices with a single command.<br>
 Requirements<br>
 Unix-like operating system (Linux, macOS, etc.)<br>
 <br>
-Installation<br>
-Clone the repository:<br>
-git clone https://github.com/yourusername/AvoidSpectatorship.git<br>
-Navigate to the project directory:<br>
-cd AvoidSpectatorship<br>
+
 Make the script executable:<br>
 chmod +x avoid_spectatorship.sh<br>
 To Run the Code:<br>
